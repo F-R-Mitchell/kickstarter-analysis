@@ -10,9 +10,7 @@ Louise should consider lowering her goal for a musical in Great Britain to below
 ---
 # Analysis of the Results for Kickstarter_Challenge
 ## Overview of The Project
-The purpose of this analysis was to fulfill Louise's request to know how projects progressed based on their launch dates and funding goals. Using the knowledge and data from the outcome of the analysis within [Kickstarter_Challenge.xlsx](https://github.com/F-R-Mitchell/kickstarter-analysis/files/7071715/Kickstarter_Challenge.xlsx)
-
-Louise can better determine when is the best time to launch a project as well as how much she should request for funding.
+The purpose of this analysis was to fulfill Louise's request to know how projects progressed based on their launch dates and funding goals. Using the knowledge and data from the outcome of the analysis within [Kickstarter_Challenge.xlsx](https://github.com/F-R-Mitchell/kickstarter-analysis/files/7071715/Kickstarter_Challenge.xlsx), Louise can better determine when is the best time to launch a project as well as how much she should request for funding.
 
 ## Analysis and Challenges
 I began by analyzing the outcomes of theater projects based on launch date. As seen on - ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/87910875/131050642-f879f9cc-6337-4f8a-84e2-9221dcca12f2.png)
