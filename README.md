@@ -14,6 +14,7 @@ The purpose of this analysis was to fulfill Louise's request to know how project
 
 ## Analysis and Challenges
 I began by analyzing the outcomes of theater projects based on launch date. As seen on - ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/87910875/131050642-f879f9cc-6337-4f8a-84e2-9221dcca12f2.png)
+
 The most successful time to launch a theater project is during the month of May, even though the highest rate of failures is during the same month. I then analyzed outcomes of plays based on the goals of each project using ranges as seen on - ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/87910875/131050693-7f62b9c7-da63-4c49-9359-ce5eb06ba4e7.png)
 The chart displays that the most successful goal range is between $0 and $4,999. A challenge that encountered, though foolish, was not having the right greater than or less than signs within the formula which created significantly different results.
 
